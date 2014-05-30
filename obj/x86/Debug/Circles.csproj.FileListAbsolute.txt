@@ -1,0 +1,44 @@
+C:\Users\jw190e\AppData\Local\Temporary Projects\Circles\obj\x86\Debug\MainWindow.baml
+C:\Users\jw190e\AppData\Local\Temporary Projects\Circles\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jw190e\AppData\Local\Temporary Projects\Circles\obj\x86\Debug\App.g.cs
+C:\Users\jw190e\AppData\Local\Temporary Projects\Circles\obj\x86\Debug\Circles_MarkupCompile.cache
+C:\Users\jw190e\AppData\Local\Temporary Projects\Circles\obj\x86\Debug\Circles.g.resources
+C:\Users\jw190e\AppData\Local\Temporary Projects\Circles\obj\x86\Debug\Circles.Properties.Resources.resources
+C:\Users\jw190e\AppData\Local\Temporary Projects\Circles\obj\x86\Debug\Circles.csproj.GenerateResource.Cache
+C:\Users\jw190e\AppData\Local\Temporary Projects\Circles\bin\Debug\Circles.exe
+C:\Users\jw190e\AppData\Local\Temporary Projects\Circles\bin\Debug\Circles.pdb
+C:\Users\jw190e\AppData\Local\Temporary Projects\Circles\obj\x86\Debug\Circles.exe
+C:\Users\jw190e\AppData\Local\Temporary Projects\Circles\obj\x86\Debug\Circles.pdb
+C:\Users\jw190e\Desktop\Circles\Circles\obj\x86\Debug\Circles.exe
+C:\Users\jw190e\Desktop\Circles\Circles\bin\Debug\Circles.exe
+C:\Users\jw190e\Desktop\Circles\Circles\bin\Debug\Circles.pdb
+C:\Users\jw190e\Desktop\Circles\Circles\obj\x86\Debug\MainWindow.baml
+C:\Users\jw190e\Desktop\Circles\Circles\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jw190e\Desktop\Circles\Circles\obj\x86\Debug\App.g.cs
+C:\Users\jw190e\Desktop\Circles\Circles\obj\x86\Debug\Circles_MarkupCompile.cache
+C:\Users\jw190e\Desktop\Circles\Circles\obj\x86\Debug\Circles.g.resources
+C:\Users\jw190e\Desktop\Circles\Circles\obj\x86\Debug\Circles.Properties.Resources.resources
+C:\Users\jw190e\Desktop\Circles\Circles\obj\x86\Debug\Circles.csproj.GenerateResource.Cache
+C:\Users\jw190e\Desktop\Circles\Circles\obj\x86\Debug\Circles.pdb
+C:\Users\jw190e\Desktop\Circles - Copy\Circles\obj\x86\Debug\Circles.exe
+C:\Users\jw190e\Desktop\Circles - Copy\Circles\obj\x86\Debug\Circles.pdb
+C:\Users\jw190e\Desktop\Circles - Copy\Circles\bin\Debug\Circles.exe
+C:\Users\jw190e\Desktop\Circles - Copy\Circles\bin\Debug\Circles.pdb
+C:\Users\jw190e\Desktop\Circles - Copy\Circles\obj\x86\Debug\MainWindow.baml
+C:\Users\jw190e\Desktop\Circles - Copy\Circles\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jw190e\Desktop\Circles - Copy\Circles\obj\x86\Debug\App.g.cs
+C:\Users\jw190e\Desktop\Circles - Copy\Circles\obj\x86\Debug\Circles_MarkupCompile.cache
+C:\Users\jw190e\Desktop\Circles - Copy\Circles\obj\x86\Debug\Circles.g.resources
+C:\Users\jw190e\Desktop\Circles - Copy\Circles\obj\x86\Debug\Circles.Properties.Resources.resources
+C:\Users\jw190e\Desktop\Circles - Copy\Circles\obj\x86\Debug\Circles.csproj.GenerateResource.Cache
+C:\Development\C#\DnA_Animation\Circles\bin\Debug\DnA_Animation.exe
+C:\Development\C#\DnA_Animation\Circles\bin\Debug\DnA_Animation.pdb
+C:\Development\C#\DnA_Animation\Circles\obj\x86\Debug\MainWindow.baml
+C:\Development\C#\DnA_Animation\Circles\obj\x86\Debug\MainWindow.g.cs
+C:\Development\C#\DnA_Animation\Circles\obj\x86\Debug\App.g.cs
+C:\Development\C#\DnA_Animation\Circles\obj\x86\Debug\DnA_Animation_MarkupCompile.cache
+C:\Development\C#\DnA_Animation\Circles\obj\x86\Debug\DnA_Animation.g.resources
+C:\Development\C#\DnA_Animation\Circles\obj\x86\Debug\DnA_Animation.Properties.Resources.resources
+C:\Development\C#\DnA_Animation\Circles\obj\x86\Debug\Circles.csproj.GenerateResource.Cache
+C:\Development\C#\DnA_Animation\Circles\obj\x86\Debug\DnA_Animation.exe
+C:\Development\C#\DnA_Animation\Circles\obj\x86\Debug\DnA_Animation.pdb
